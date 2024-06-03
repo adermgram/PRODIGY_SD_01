@@ -24,7 +24,7 @@ A Java-based GUI application to convert temperatures between Celsius, Kelvin, an
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/temperature-converter.git
+    git clone https://github.com/adermgram/PRODIGY_SD_01.git
     ```
 2. Open the project in your preferred IDE.
 
